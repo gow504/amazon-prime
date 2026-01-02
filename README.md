@@ -15,7 +15,7 @@ Interactive filters and slicers for deeper insights
 Clean and intuitive dashboard design
 
 # DATASET:
-<a href=>DATASET DOWNLOAD HERE</a>
+<a href="https://github.com/gow504/amazon-prime/blob/main/amazon_prime_titles.csv">DATASET DOWNLOAD HERE</a>
 
 # DASBOARD PREVIEW:
 <img width="1290" height="724" alt="amazonprimedashboard" src="https://github.com/user-attachments/assets/a7d0d1f2-9b79-4823-8543-bc3d6b0a66ca" />
