@@ -38,3 +38,12 @@ AMAZONPRIME.pbix – Power BI dashboard file
  # Purpose
 
 This project is created for data analysis practice, portfolio showcasing, and to demonstrate skills in Power BI dashboard development and data visualization
+
+# author
+
+author - sanapagowtham068@gmail.com
+
+github - https://github.com/gow504
+
+linkedin - www.linkedin.com/in/sanapa-gowtham-b87058265
+
