@@ -14,7 +14,13 @@ Interactive filters and slicers for deeper insights
 
 Clean and intuitive dashboard design
 
-##Tools & Technologies
+# DATASET:
+<a href=>DATASET DOWNLOAD HERE</a>
+
+# DASBOARD PREVIEW:
+
+
+# Tools & Technologies
 
 Power BI
 
@@ -24,10 +30,10 @@ DAX (Basic Measures)
 
 Data Cleaning & Transformation
 
-#File Included
+# File Included
 
 AMAZONPRIME.pbix – Power BI dashboard file
 
- ##Purpose
+ # Purpose
 
 This project is created for data analysis practice, portfolio showcasing, and to demonstrate skills in Power BI dashboard development and data visualization
